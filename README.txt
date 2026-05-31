@@ -10,6 +10,7 @@ Table of Contents:
 5. Installation & How to Run the Game
 6. How to Save and Load the Game
 7. Credits
+
 -------------------------------------------------------------------------------
 1. Introduction
 -------------------------------------------------------------------------------
@@ -30,6 +31,7 @@ Are you ready for the escape?
 - Save and Load Feature: Save your game progress and resume later.
 - Leaderboard: Compete for the best times and highest levels in the Speed Run mode.
 - Countdown: Want a challenge? Try the Countdown challenge mode and see how many levels you can Compete
+
 -------------------------------------------------------------------------------
 3. Game Controls
 -------------------------------------------------------------------------------
@@ -38,6 +40,7 @@ Are you ready for the escape?
 - Q: Quit the current game or return to the main dashboard
 - Interact with objects such as doors, puzzles, and items 
 - Other Inputs will be ask/ displayed accordingly
+
 -------------------------------------------------------------------------------
 4. Game Modes
 -------------------------------------------------------------------------------
@@ -48,10 +51,49 @@ Are you ready for the escape?
 (5) SPEED RUN RACE (to compete in the LEADERBOARD): Finish as many mazes as fast as you can & see where you stand on the LEADERBOARD
 
 -------------------------------------------------------------------------------
-5. How to Run the Game
+5. Installation & How to Run the Game
+-------------------------------------------------------------------------------
+Depending on your platform, choose the option that suits you:
+
+-------------------------------------------------------------------------------
+Option A: Windows — Run the .exe (No installation needed)
 -------------------------------------------------------------------------------
 1. Download the game file (MysteryMaze.exe)
-2. Click on file to run game.
+2. Double-click MysteryMaze.exe to launch the game
+-------------------------------------------------------------------------------
+Option B: Build from Source (Windows / Mac / Linux)
+-------------------------------------------------------------------------------
+This requires a C++ compiler (g++) installed on your machine.
+
+-- Windows --
+1. Install MSYS2 from https://www.msys2.org
+2. Open the MSYS2 terminal and run:
+      pacman -S mingw-w64-ucrt-x86_64-gcc
+3. Add g++ to your PATH:
+   - Search "Environment Variables" in the Start menu
+   - Under System Variables, find "Path" and click Edit
+   - Add: C:\msys64\ucrt64\bin
+   - Click OK and restart your terminal
+4. Open PowerShell in the project folder and run:
+      g++ MysteryMaze.cpp -o MysteryMaze.exe
+      .\MysteryMaze.exe
+
+-- Mac --
+1. Open Terminal and run:
+      xcode-select --install
+   (This installs g++ automatically)
+2. Navigate to the project folder and run:
+      g++ MysteryMaze.cpp -o MysteryMaze
+      ./MysteryMaze
+
+-- Linux --
+1. Open Terminal and run:
+      sudo apt install g++        (Ubuntu/Debian)
+      sudo dnf install gcc-c++    (Fedora)
+2. Navigate to the project folder and run:
+      g++ MysteryMaze.cpp -o MysteryMaze
+      ./MysteryMaze
+
 -------------------------------------------------------------------------------
 6. How to Save and Load the Game
 -------------------------------------------------------------------------------
@@ -63,6 +105,7 @@ To resume a previous game:
 > Go to menu 
 > Enter '4' for ("LOAD GAME")
 > Enter Game Number (Indicated the top left of game details)
+
 -------------------------------------------------------------------------------
 7. Credits
 -------------------------------------------------------------------------------
