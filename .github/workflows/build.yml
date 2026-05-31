@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Build Windows
-        run: g++ MysteryMaze.cpp -o MysteryMaze.exe
+        run: g++ MysteryMaze.cpp -o MysteryMaze.exe -static-libgcc -static-libstdc++ -static
       - uses: actions/upload-artifact@v4
         with:
           name: MysteryMaze-Windows
