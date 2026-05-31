@@ -51,49 +51,12 @@ Are you ready for the escape?
 (5) SPEED RUN RACE (to compete in the LEADERBOARD): Finish as many mazes as fast as you can & see where you stand on the LEADERBOARD
 
 -------------------------------------------------------------------------------
-5. Installation & How to Run the Game
+5. Installation & How to Run the Game (Windows)
 -------------------------------------------------------------------------------
-Depending on your platform, choose the option that suits you:
+Note: This game is currently Windows only.
 
--------------------------------------------------------------------------------
-Option A: Windows — Run the .exe (No installation needed)
--------------------------------------------------------------------------------
 1. Download the game file (MysteryMaze.exe)
 2. Double-click MysteryMaze.exe to launch the game
--------------------------------------------------------------------------------
-Option B: Build from Source (Windows / Mac / Linux)
--------------------------------------------------------------------------------
-This requires a C++ compiler (g++) installed on your machine.
-
--- Windows --
-1. Install MSYS2 from https://www.msys2.org
-2. Open the MSYS2 terminal and run:
-      pacman -S mingw-w64-ucrt-x86_64-gcc
-3. Add g++ to your PATH:
-   - Search "Environment Variables" in the Start menu
-   - Under System Variables, find "Path" and click Edit
-   - Add: C:\msys64\ucrt64\bin
-   - Click OK and restart your terminal
-4. Open PowerShell in the project folder and run:
-      g++ MysteryMaze.cpp -o MysteryMaze.exe
-      .\MysteryMaze.exe
-
--- Mac --
-1. Open Terminal and run:
-      xcode-select --install
-   (This installs g++ automatically)
-2. Navigate to the project folder and run:
-      g++ MysteryMaze.cpp -o MysteryMaze
-      ./MysteryMaze
-
--- Linux --
-1. Open Terminal and run:
-      sudo apt install g++        (Ubuntu/Debian)
-      sudo dnf install gcc-c++    (Fedora)
-2. Navigate to the project folder and run:
-      g++ MysteryMaze.cpp -o MysteryMaze
-      ./MysteryMaze
-
 -------------------------------------------------------------------------------
 6. How to Save and Load the Game
 -------------------------------------------------------------------------------
