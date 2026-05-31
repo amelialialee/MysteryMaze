@@ -55,8 +55,10 @@ Are you ready for the escape?
 -------------------------------------------------------------------------------
 Note: This game is currently Windows only.
 
-1. Download the game file (MysteryMaze.exe)
-2. Double-click MysteryMaze.exe to launch the game
+1. Go to the Releases section of this repository (right side of the repo page)
+2. Click the latest release and download MysteryMaze.exe
+3. Double-click MysteryMaze.exe to launch the game
+
 -------------------------------------------------------------------------------
 6. How to Save and Load the Game
 -------------------------------------------------------------------------------
