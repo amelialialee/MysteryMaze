@@ -1,0 +1,2308 @@
+{
+    "1736091227": {
+        "CurrentGame": {
+            "CurrentLevel": 3,
+            "GameLevel": {
+                "goal": {
+                    "goalX": 11,
+                    "goalY": 11
+                },
+                "height": 13,
+                "width": 13
+            },
+            "StartGame": true,
+            "gameOver": false,
+            "gameStarted": true,
+            "levelStarted": true,
+            "levelTime": 207,
+            "savedDateTime": "Sun Jan  5 18:28:03 2025",
+            "totalTime": 152
+        },
+        "CustomGame": {
+            "Difficulty": 0,
+            "Enemies": true,
+            "GameMode": 2,
+            "Infinitelevels": true,
+            "NumOfLevels": 4,
+            "Puzzle": true
+        },
+        "Doors": [
+            {
+                "isOpen": false,
+                "x": 10,
+                "y": 3
+            },
+            {
+                "isOpen": false,
+                "x": 6,
+                "y": 10
+            }
+        ],
+        "Enemies": [
+            {
+                "skipNextMove": false,
+                "x": 11,
+                "y": 7
+            },
+            {
+                "skipNextMove": false,
+                "x": 5,
+                "y": 11
+            }
+        ],
+        "Player": {
+            "inventory": [
+                "KEY",
+                "KEY"
+            ],
+            "inventorycap": 3,
+            "lives": 2,
+            "message": "",
+            "name": "Jake",
+            "x": 11,
+            "y": 4
+        },
+        "Portals": [
+            {
+                "x": 11,
+                "y": 6
+            }
+        ],
+        "Puzzles": [
+            {
+                "solved": true,
+                "x": 5,
+                "y": 4
+            }
+        ],
+        "Swords": [
+            {
+                "name": "SWORD",
+                "x": 9,
+                "y": 2
+            },
+            {
+                "name": "SWORD",
+                "x": 3,
+                "y": 11
+            }
+        ],
+        "maze": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        ]
+    },
+    "1736091493": {
+        "CurrentGame": {
+            "CurrentLevel": 4,
+            "GameLevel": {
+                "goal": {
+                    "goalX": 13,
+                    "goalY": 13
+                },
+                "height": 15,
+                "width": 15
+            },
+            "StartGame": true,
+            "gameOver": true,
+            "gameStarted": false,
+            "levelStarted": false,
+            "levelTime": 318,
+            "savedDateTime": "Sun Jan  5 15:38:13 2025",
+            "totalTime": 118
+        },
+        "CustomGame": {
+            "Difficulty": 1,
+            "Enemies": true,
+            "GameMode": 3,
+            "Infinitelevels": true,
+            "NumOfLevels": 5,
+            "Puzzle": false
+        },
+        "Doors": [
+            {
+                "isOpen": false,
+                "x": 8,
+                "y": 13
+            },
+            {
+                "isOpen": false,
+                "x": 6,
+                "y": 7
+            },
+            {
+                "isOpen": false,
+                "x": 8,
+                "y": 12
+            }
+        ],
+        "Enemies": [
+            {
+                "skipNextMove": false,
+                "x": 11,
+                "y": 5
+            },
+            {
+                "skipNextMove": false,
+                "x": 1,
+                "y": 7
+            }
+        ],
+        "Items": [
+            {
+                "name": "HAMMER",
+                "x": 5,
+                "y": 6
+            },
+            {
+                "name": "LIFE SHARD",
+                "x": 1,
+                "y": 3
+            }
+        ],
+        "Keys": [
+            {
+                "name": "KEY",
+                "x": 3,
+                "y": 6
+            },
+            {
+                "name": "KEY",
+                "x": 3,
+                "y": 8
+            }
+        ],
+        "Player": {
+            "inventory": [
+                "KEY"
+            ],
+            "inventorycap": 3,
+            "lives": 0,
+            "message": "Game Over! You had no lives left ~",
+            "name": "Kelly",
+            "x": 11,
+            "y": 5
+        },
+        "Portals": [
+            {
+                "x": 4,
+                "y": 11
+            }
+        ],
+        "Puzzles": [
+            {
+                "solved": true,
+                "x": 11,
+                "y": 5
+            },
+            {
+                "solved": false,
+                "x": 6,
+                "y": 5
+            }
+        ],
+        "Swords": [
+            {
+                "name": "SWORD",
+                "x": 1,
+                "y": 8
+            },
+            {
+                "name": "SWORD",
+                "x": 4,
+                "y": 3
+            }
+        ],
+        "maze": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        ]
+    },
+    "1736092215": {
+        "CurrentGame": {
+            "CurrentLevel": 1,
+            "GameLevel": {
+                "goal": {
+                    "goalX": 11,
+                    "goalY": 11
+                },
+                "height": 13,
+                "width": 13
+            },
+            "StartGame": true,
+            "gameOver": true,
+            "gameStarted": false,
+            "levelStarted": false,
+            "levelTime": 137,
+            "savedDateTime": "Sun Jan  5 15:50:15 2025",
+            "totalTime": 136
+        },
+        "CustomGame": {
+            "Difficulty": 1,
+            "Enemies": true,
+            "GameMode": 3,
+            "Infinitelevels": true,
+            "NumOfLevels": 2,
+            "Puzzle": false
+        },
+        "Doors": [
+            {
+                "isOpen": false,
+                "x": 10,
+                "y": 4
+            }
+        ],
+        "Enemies": [
+            {
+                "skipNextMove": false,
+                "x": 7,
+                "y": 3
+            }
+        ],
+        "Keys": [
+            {
+                "name": "KEY",
+                "x": 11,
+                "y": 4
+            }
+        ],
+        "Player": {
+            "inventory": [],
+            "inventorycap": 3,
+            "lives": 0,
+            "message": "Game Over! You had no lives left ~",
+            "name": "Ben",
+            "x": 7,
+            "y": 3
+        },
+        "Portals": [
+            {
+                "x": 3,
+                "y": 1
+            }
+        ],
+        "Puzzles": [
+            {
+                "solved": false,
+                "x": 4,
+                "y": 9
+            }
+        ],
+        "Swords": [
+            {
+                "name": "SWORD",
+                "x": 9,
+                "y": 5
+            }
+        ],
+        "maze": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        ]
+    },
+    "1736094907": {
+        "CurrentGame": {
+            "CurrentLevel": 2,
+            "GameLevel": {
+                "goal": {
+                    "goalX": 11,
+                    "goalY": 11
+                },
+                "height": 13,
+                "width": 13
+            },
+            "StartGame": true,
+            "gameOver": true,
+            "gameStarted": false,
+            "levelStarted": false,
+            "levelTime": 23,
+            "savedDateTime": "Sun Jan  5 16:35:07 2025",
+            "totalTime": 33
+        },
+        "CustomGame": {
+            "Difficulty": 1,
+            "Enemies": true,
+            "GameMode": 3,
+            "Infinitelevels": true,
+            "NumOfLevels": 3,
+            "Puzzle": false
+        },
+        "Doors": [
+            {
+                "isOpen": false,
+                "x": 8,
+                "y": 2
+            },
+            {
+                "isOpen": false,
+                "x": 1,
+                "y": 4
+            }
+        ],
+        "Enemies": [
+            {
+                "skipNextMove": false,
+                "x": 2,
+                "y": 5
+            }
+        ],
+        "Player": {
+            "inventory": [
+                "KEY",
+                "KEY"
+            ],
+            "inventorycap": 3,
+            "lives": -1,
+            "message": "Game Over! You had no lives left ~",
+            "name": "Belle",
+            "x": 2,
+            "y": 5
+        },
+        "Portals": [
+            {
+                "x": 4,
+                "y": 7
+            }
+        ],
+        "Puzzles": [
+            {
+                "solved": false,
+                "x": 7,
+                "y": 11
+            }
+        ],
+        "Swords": [
+            {
+                "name": "SWORD",
+                "x": 2,
+                "y": 11
+            }
+        ],
+        "maze": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        ]
+    },
+    "1736098360": {
+        "CurrentGame": {
+            "CurrentLevel": 2,
+            "GameLevel": {
+                "goal": {
+                    "goalX": 11,
+                    "goalY": 11
+                },
+                "height": 13,
+                "width": 13
+            },
+            "StartGame": true,
+            "gameOver": true,
+            "gameStarted": false,
+            "levelStarted": false,
+            "levelTime": 31,
+            "savedDateTime": "Sun Jan  5 17:32:40 2025",
+            "totalTime": 59
+        },
+        "CustomGame": {
+            "Difficulty": 1,
+            "Enemies": true,
+            "GameMode": 3,
+            "Infinitelevels": true,
+            "NumOfLevels": 3,
+            "Puzzle": false
+        },
+        "Doors": [
+            {
+                "isOpen": false,
+                "x": 4,
+                "y": 10
+            },
+            {
+                "isOpen": false,
+                "x": 8,
+                "y": 3
+            }
+        ],
+        "Enemies": [
+            {
+                "skipNextMove": false,
+                "x": 1,
+                "y": 8
+            },
+            {
+                "skipNextMove": false,
+                "x": 7,
+                "y": 4
+            }
+        ],
+        "Keys": [
+            {
+                "name": "KEY",
+                "x": 5,
+                "y": 10
+            },
+            {
+                "name": "KEY",
+                "x": 6,
+                "y": 9
+            }
+        ],
+        "Player": {
+            "inventory": [
+                "HAMMER"
+            ],
+            "inventorycap": 3,
+            "lives": 0,
+            "message": "Game Over! You had no lives left ~",
+            "name": "AMELIA",
+            "x": 7,
+            "y": 4
+        },
+        "Portals": [
+            {
+                "x": 7,
+                "y": 10
+            }
+        ],
+        "Puzzles": [
+            {
+                "solved": false,
+                "x": 11,
+                "y": 3
+            }
+        ],
+        "Swords": [
+            {
+                "name": "SWORD",
+                "x": 7,
+                "y": 11
+            },
+            {
+                "name": "SWORD",
+                "x": 7,
+                "y": 11
+            }
+        ],
+        "maze": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        ]
+    },
+    "1736099050": {
+        "CurrentGame": {
+            "CurrentLevel": 2,
+            "GameLevel": {
+                "goal": {
+                    "goalX": 11,
+                    "goalY": 11
+                },
+                "height": 13,
+                "width": 13
+            },
+            "StartGame": true,
+            "gameOver": true,
+            "gameStarted": false,
+            "levelStarted": false,
+            "levelTime": 34,
+            "savedDateTime": "Sun Jan  5 17:44:10 2025",
+            "totalTime": 59
+        },
+        "CustomGame": {
+            "Difficulty": 1,
+            "Enemies": true,
+            "GameMode": 3,
+            "Infinitelevels": true,
+            "NumOfLevels": 3,
+            "Puzzle": false
+        },
+        "Doors": [
+            {
+                "isOpen": false,
+                "x": 10,
+                "y": 8
+            },
+            {
+                "isOpen": false,
+                "x": 6,
+                "y": 1
+            }
+        ],
+        "Enemies": [
+            {
+                "skipNextMove": false,
+                "x": 9,
+                "y": 5
+            },
+            {
+                "skipNextMove": false,
+                "x": 9,
+                "y": 9
+            }
+        ],
+        "Keys": [
+            {
+                "name": "KEY",
+                "x": 9,
+                "y": 3
+            },
+            {
+                "name": "KEY",
+                "x": 5,
+                "y": 4
+            }
+        ],
+        "Player": {
+            "inventory": [],
+            "inventorycap": 3,
+            "lives": -1,
+            "message": "Game Over! You had no lives left ~",
+            "name": "JAMES",
+            "x": 9,
+            "y": 5
+        },
+        "Portals": [
+            {
+                "x": 1,
+                "y": 3
+            }
+        ],
+        "Puzzles": [
+            {
+                "solved": false,
+                "x": 3,
+                "y": 4
+            }
+        ],
+        "Swords": [
+            {
+                "name": "SWORD",
+                "x": 2,
+                "y": 11
+            },
+            {
+                "name": "SWORD",
+                "x": 9,
+                "y": 9
+            }
+        ],
+        "maze": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        ]
+    },
+    "1736099601": {
+        "CurrentGame": {
+            "CurrentLevel": 1,
+            "GameLevel": {
+                "goal": {
+                    "goalX": 9,
+                    "goalY": 9
+                },
+                "height": 11,
+                "width": 11
+            },
+            "StartGame": true,
+            "gameOver": false,
+            "gameStarted": true,
+            "levelStarted": true,
+            "levelTime": 43596,
+            "savedDateTime": "Sun Jan  5 18:15:38 2025",
+            "totalTime": 43596
+        },
+        "CustomGame": {
+            "Difficulty": 0,
+            "Enemies": true,
+            "GameMode": 0,
+            "Infinitelevels": false,
+            "NumOfLevels": 10,
+            "Puzzle": false
+        },
+        "Doors": [
+            {
+                "isOpen": false,
+                "x": 4,
+                "y": 6
+            }
+        ],
+        "Enemies": [
+            {
+                "skipNextMove": false,
+                "x": 9,
+                "y": 3
+            }
+        ],
+        "Keys": [
+            {
+                "name": "KEY",
+                "x": 7,
+                "y": 1
+            }
+        ],
+        "Player": {
+            "inventory": [],
+            "inventorycap": 3,
+            "lives": 3,
+            "message": "",
+            "name": "Kay",
+            "x": 1,
+            "y": 3
+        },
+        "Portals": [
+            {
+                "x": 5,
+                "y": 6
+            }
+        ],
+        "Puzzles": [
+            {
+                "solved": false,
+                "x": 5,
+                "y": 9
+            }
+        ],
+        "Swords": [
+            {
+                "name": "SWORD",
+                "x": 7,
+                "y": 4
+            }
+        ],
+        "maze": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        ]
+    },
+    "1736102308": {
+        "CurrentGame": {
+            "CurrentLevel": 1,
+            "GameLevel": {
+                "goal": {
+                    "goalX": 11,
+                    "goalY": 11
+                },
+                "height": 13,
+                "width": 13
+            },
+            "StartGame": true,
+            "gameOver": true,
+            "gameStarted": false,
+            "levelStarted": false,
+            "levelTime": 73,
+            "savedDateTime": "Sun Jan  5 18:38:28 2025",
+            "totalTime": 24
+        },
+        "CustomGame": {
+            "Difficulty": 1,
+            "Enemies": true,
+            "GameMode": 3,
+            "Infinitelevels": true,
+            "NumOfLevels": 2,
+            "Puzzle": false
+        },
+        "Doors": [
+            {
+                "isOpen": false,
+                "x": 4,
+                "y": 6
+            }
+        ],
+        "Enemies": [
+            {
+                "skipNextMove": false,
+                "x": 5,
+                "y": 5
+            }
+        ],
+        "Keys": [
+            {
+                "name": "KEY",
+                "x": 3,
+                "y": 8
+            }
+        ],
+        "Player": {
+            "inventory": [],
+            "inventorycap": 3,
+            "lives": 0,
+            "message": "Game Over! You had no lives left ~",
+            "name": "JAY",
+            "x": 5,
+            "y": 5
+        },
+        "Portals": [
+            {
+                "x": 1,
+                "y": 6
+            }
+        ],
+        "Puzzles": [
+            {
+                "solved": false,
+                "x": 11,
+                "y": 3
+            }
+        ],
+        "Swords": [
+            {
+                "name": "SWORD",
+                "x": 1,
+                "y": 6
+            }
+        ],
+        "maze": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        ]
+    }
+}
